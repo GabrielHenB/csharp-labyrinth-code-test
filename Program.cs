@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 //Alunos: Gabriel Henrique Braz e Marlon Bento.
 
-namespace Marlon_Simulator_2019
+namespace Labirinto_2019
 {
     class Program
     {
