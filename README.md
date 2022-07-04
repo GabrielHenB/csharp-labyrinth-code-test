@@ -1,2 +1,2 @@
 # csharp-labyrinth-code-test
-Labyrinth code made while learning C#.
+Labyrinth game code made while learning C#.
