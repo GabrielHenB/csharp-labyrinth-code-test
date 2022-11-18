@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Alunos: Gabriel Henrique Braz e Marlon Bento.
+//Alunos: Gabriel e Marlon.
 
 namespace Labirinto_2019
 {
